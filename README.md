@@ -6,8 +6,10 @@ Atualmente aluno do curso **técnico em Internet para Web** no SENAI, Ipatinga/M
 
 # Unidades curriculares
 Concluídas
+
 [x] Lógica de programação
 ...
+
 
 Em progresso
 [] Interface Web
