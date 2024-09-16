@@ -8,9 +8,11 @@ Atualmente aluno do curso **técnico em Internet para Web** no SENAI, Ipatinga/M
 Concluídas
 
 [x] Lógica de programação
+
 ...
 
 
 Em progresso
+
 [] Interface Web
   
